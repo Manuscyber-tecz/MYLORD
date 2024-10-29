@@ -4,73 +4,90 @@ Welcome to **Cyber Colony**! We are a collective of tech enthusiasts, ethical ha
 
 ---
 
-## Table of Contents
+## Table of Contents:-
 
-1. [About Us](#about-us)
-2. [Our Mission](#our-mission)
-3. [Projects](#projects)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [Code of Conduct](#code-of-conduct)
-7. [License](#license)
-8. [Contact](#contact)
+1. [About Us](#about-us).
+
+2. [Our Mission](#our-mission).
+
+3. [Projects](#projects).
+
+4. [Getting Started](#getting-started).
+
+5. [Contributing](#contributing).
+
+6. [Code of Conduct](#code-of-conduct).
+
+7. [License](#license).
+
+8. [Contact](#contact).
 
 ---
 
-## About Us
+## About Us:-
 
 Cyber Colony is a community-driven organization focused on empowering individuals to explore and contribute to the cybersecurity field. We engage in developing open-source security tools, providing educational resources, and hosting community events like Capture The Flag (CTF) challenges and workshops.
 
-## Our Mission
+## Our Mission:-
 
-Our goal is to:
+Our goal is to:-
 - Foster a community of ethical hackers and cybersecurity enthusiasts.
+
 - Create open-source tools to improve digital security.
+
 - Educate the public on best practices for privacy and cybersecurity.
+
 - Collaborate on innovative solutions to modern security challenges.
 
 ---
 
-## Projects
+## Projects-
 
 We work on various projects that range from network security and data protection to ethical hacking and penetration testing. Here are some of our notable projects:
 
 - **ColonyGuard** - A network scanning and vulnerability detection tool.
+
 - **ColonyLabs** - A learning platform featuring cybersecurity exercises and CTF challenges.
+
 - **DataFortify** - A privacy-focused tool suite for data encryption and secure storage.
 
 You can find all of our projects in the [Cyber Colony GitHub repository](https://github.com/CyberColony).
 
 ---
 
-## Getting Started
+## Getting Started:-
 
-To join Cyber Colony, follow these steps:
+To join Cyber Colony, follow these steps:-
 
 1. **Fork** our repositories and explore our projects.
+
 2. **Read** the documentation for each project to understand the goals and structure.
+
 3. **Join** our discussions in the Issues and Discussions tabs to get acquainted with current initiatives.
+
 4. **Contribute** by fixing issues, adding new features, or improving documentation.
 
 ---
 
-## Contributing
+## Contributing:-
 
-We welcome contributions from developers, researchers, writers, and cybersecurity professionals of all experience levels. To contribute:
+We welcome contributions from developers, researchers, writers, and cybersecurity professionals of all experience levels. To contribute:-
 
 1. Review our [Contributing Guidelines](CONTRIBUTING.md).
+
 2. Follow the instructions for setting up your development environment.
+
 3. Open a pull request (PR) with your changes, and link any relevant issues.
 
 ---
 
-## Code of Conduct
+## Code of Conduct:-
 
 We are committed to maintaining a safe and inclusive environment. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in our projects or discussions.
 
 ---
 
-## License
+## License:-
 
 All Cyber Colony projects are open source and licensed under the [MIT License](LICENSE).
 
